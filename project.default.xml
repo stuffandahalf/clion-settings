@@ -1,0 +1,17 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+          <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+          <configuration PROFILE_NAME="RelWithDebInfo" CONFIG_NAME="RelWithDebInfo" />
+          <configuration PROFILE_NAME="MinSizeRel" CONFIG_NAME="MinSizeRel" />
+        </configurations>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
